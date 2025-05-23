@@ -39,4 +39,3 @@ The program is executed successfully.
 
 
 
-# RESULT:
