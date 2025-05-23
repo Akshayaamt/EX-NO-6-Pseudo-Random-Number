@@ -12,7 +12,7 @@ End the program.
 
 # PROGRAM:
 ```
- #include <stdio.h>
+#include <stdio.h>
  #include <stdlib.h>
  #include <time.h>
  int main() {
@@ -32,7 +32,8 @@ End the program.
 
 # OUTPUT:
 
-![Screenshot 2025-05-23 092211](https://github.com/user-attachments/assets/0b2095f2-9af8-463e-bd39-83e3ef9a9a38)
+![Screenshot 2025-05-23 092211](https://github.com/user-attachments/assets/3b2910d2-f412-4477-a463-1e5293834d3a)
+
 
 # RESULT:
 The program is executed successfully.
